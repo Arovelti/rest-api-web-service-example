@@ -1,0 +1,5 @@
+---
+
+is_debag: true
+listen:
+  type: sock
