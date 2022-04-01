@@ -3,3 +3,11 @@
 is_debag: true
 listen:
   type: sock
+mongodb:
+  host: localhost
+  port: 27017
+  database: userservice
+  auth_db: 
+  username:
+  password:
+  collection: users
